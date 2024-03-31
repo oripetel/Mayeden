@@ -47,7 +47,7 @@
 - [ ] Voice message
 - [ ] Status stealer
 - [ ] Everything
-
-
+-----------------------
+- [ ] Verify Phone/Email to token
 
 # From Github with love 💕
